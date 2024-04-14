@@ -1,22 +1,28 @@
-# CrowdFunding Web3.0
+# AllyStack
 
-View Project Live at : https://crowdfunding-web3-2723.netlify.app
+AllyStack is a decentralized crowdfunding platform built on the XDC network, empowering individuals and organizations to raise funds for impactful projects.
 
-Home Page :
-![image](https://github.com/SURAJPATIL6088/CrowdFunding_Web3.0/assets/78692972/a5820cb5-08e2-4b08-bea2-1d23807a530e) <br>
-_______________________________________________________________________________________________________________________________
-Create Campaign : <br>
-![image](https://github.com/SURAJPATIL6088/CrowdFunding_Web3.0/assets/78692972/e09abf47-299d-4370-a3cf-3fe6d53713f9)
+## Features
 
-_______________________________________________________________________________________________________________________________
-<br>
+- **Secure and Transparent**: Leverages the security and transparency of the XDC blockchain for secure transactions.
+- **Efficient Fundraising**: Automates fundraising processes through smart contracts, ensuring efficiency and reliability.
+- **Low Fees and Fast Transactions**: Benefits from XDC's low transaction fees and fast transaction speeds, enhancing user experience.
+- **Global Accessibility**: Enables global participation, allowing backers from diverse regions to contribute seamlessly.
+- **Interoperability**: Integrates with other blockchain networks through XDC's interoperability features, expanding accessibility.
+  
+## Getting Started
 
-### Future Updates <br>
-  1. Search the Campaign.<br>
-  2. Switch Light/Dark Theme.<br>
-  3. Payment Option.<br>
-  4. Logout Session.<br>
-  5. Close the Complete Campaign.<br>
-<br>
-______________________________________________________________________________________________________________________________
-"# ALLYSTACK" 
+To get started with AllyStack, follow these steps:
+
+1. Install dependencies: `npm install`
+2. Configure environment variables: Create a `.env` file and add necessary configurations.
+3. Deploy smart contracts: Deploy AllyStack smart contracts on the XDC network.
+4. Run the application: `npm start`
+
+## Contributing
+
+We welcome contributions from the community! Feel free to submit bug reports, feature requests, or pull requests to help improve AllyStack.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
